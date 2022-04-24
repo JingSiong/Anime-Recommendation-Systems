@@ -8,7 +8,7 @@ This is a mini project for SC1015 (Introduction to Data Science and Artificial I
 # Contributors
 @
 @
-@JingSiong - Content-based filtering and item-based collaborative filtering (KNN and SVD Algorithms)
+@JingSiong - Content-based filtering (cosine similarity) and item-based collaborative filtering (KNN and SVD Algorithms)
 
 # Problem Definition
 How can we amidst the enormous library of animes, recommend quality animes according to viewers’ preference?
@@ -26,10 +26,15 @@ Predictors vs Score
 2. Correlation matrix for numerical predictors 
 
 # Machine Learning Models
+
+Predicting anime score using chosen variables 
 1. Decision Tree
 2. Random Forest Classification
+
+Item-based Collaborative Filtering 
 3. K Nearest Neighbours (KNN)
 4. Singular Value Decomposition (SVD)
+Evaluation of these two models using 5-Fold cross validation and train-test split
 
 # Insights and recommendation 
 1. Random forest classification is a more accurate and better model than decision tree 

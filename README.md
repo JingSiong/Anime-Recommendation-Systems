@@ -8,7 +8,7 @@ This is a mini project for SC1015 (Introduction to Data Science and Artificial I
 # Contributors
 @ RishJohn14 - Data Preparation and Cleaning, Exploratory Data Analysis, Decision Tree and Random Forest Classification
 
-@ JingSiong - Content-based filtering (cosine similarity) and item-based collaborative filtering (KNN and SVD Algorithms)
+@ JingSiong - Content-based filtering (cosine similarity) and Item-based collaborative filtering (KNN and SVD Algorithms)
 
 @ SHO28 - Slides
 

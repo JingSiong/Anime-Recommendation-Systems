@@ -6,9 +6,9 @@ This is a mini project for SC1015 (Introduction to Data Science and Artificial I
 3. Machine Learning Models
 
 # Contributors
-@
-@
-@JingSiong - Content-based filtering (cosine similarity) and item-based collaborative filtering (KNN and SVD Algorithms)
+@ RishJohn14 - Data Preparation and Cleaning, Exploratory Data Analysis, Decision Tree and Random Forest Classification
+@ JingSiong - Content-based filtering (cosine similarity) and item-based collaborative filtering (KNN and SVD Algorithms)
+@ SHO28 - Slides
 
 # Problem Definition
 How can we amidst the enormous library of animes, recommend quality animes according to viewers’ preference?

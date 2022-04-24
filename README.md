@@ -28,13 +28,16 @@ Predictors vs Score
 # Machine Learning Models
 
 Predicting anime score using chosen variables 
+
 1. Decision Tree
 2. Random Forest Classification
 
 Item-based Collaborative Filtering 
+
 3. K Nearest Neighbours (KNN)
-4. 4. Singular Value Decomposition (SVD)
-5. Evaluation of these two models using 5-Fold cross validation and train-test split
+4. Singular Value Decomposition (SVD)
+
+Evaluation of these two models using 5-Fold cross validation and train-test split
 
 # Insights and recommendation 
 1. Random forest classification is a more accurate and better model than decision tree 
